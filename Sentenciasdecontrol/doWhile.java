@@ -9,7 +9,9 @@ public class doWhile {
       System.out.println(numberodoWhile);
 
     } while (numberodoWhile < 0); {
-   
+
+
     }
   }
+
 }
